@@ -1,8 +1,9 @@
 {
   "name": "firestore-on-field-update",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "dist/index.js",
+  "repository": "https://github.com/world1dan/firestore-on-field-update",
   "types": "dist/index.d.ts",
   "esModuleInterop": true,
   "scripts": {
