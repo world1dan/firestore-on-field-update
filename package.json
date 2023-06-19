@@ -1,0 +1,49 @@
+{
+  "name": "firestore-on-field-update",
+  "version": "0.0.6",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "esModuleInterop": true,
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/deep-equal": "^1.0.1",
+    "deep-equal": "^2.2.1"
+  },
+  "peerDependencies": {
+    "firebase-admin": "^11.9.0",
+    "firebase-functions": "^4.4.1"
+  },
+  "keywords": [
+    "Firestore",
+    "Firebase",
+    "Cloud Functions",
+    "Field Updates",
+    "Utility",
+    "Firebase Admin",
+    "Real-time",
+    "Data Management",
+    "Serverless",
+    "Event Triggers",
+    "Node.js",
+    "JavaScript",
+    "npm",
+    "Package",
+    "Library",
+    "Firestore Automation",
+    "Document Updates",
+    "Field Monitoring",
+    "Document Changes",
+    "Cloud-based",
+    "Firebase SDK",
+    "Backend Development",
+    "Web Development",
+    "Firestore Monitoring",
+    "Database Management"
+  ]
+}
